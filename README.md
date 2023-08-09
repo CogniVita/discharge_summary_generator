@@ -1,20 +1,6 @@
 Overview:
 
-This project aims to automatically generate concise and informative discharge summaries from longer medical reports. It utilizes advanced natural language processing techniques to extract relevant information and generate summaries that capture the key details of a patient's hospital stay.
-
-Features:
-
-Automatic extraction of relevant medical information from multiple documents.
-
-
-Generation of concise and coherent discharge summaries.
-
-
-Integration of state-of-the-art language models for accurate summarization.
-
-
-Easy-to-use command-line interface for summarization tasks.
-
+This project aims to automatically generate concise and informative discharge summaries from various documents of patients. It utilizes state-of-the art model to extract relevant information and generate summaries that capture the key details of a patient's hospital stay.
 
 Access to MIMIC-III Dataset: 
 
