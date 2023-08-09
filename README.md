@@ -1,3 +1,12 @@
+Overview
+This project aims to automatically generate concise and informative discharge summaries from longer medical reports. It utilizes advanced natural language processing techniques to extract relevant information and generate summaries that capture the key details of a patient's hospital stay.
+
+Features
+Automatic extraction of relevant medical information from lengthy reports.
+Generation of concise and coherent discharge summaries.
+Integration of state-of-the-art language models for accurate summarization.
+Easy-to-use command-line interface for summarization tasks.
+
 MIMIC-III is a collection of comma separated value (CSV) files which contains detailed information regarding the clinical care of nearly 40,000 patients.
 
 There are two key steps that must be completed before access is granted:
