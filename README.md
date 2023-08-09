@@ -1,7 +1,9 @@
-Overview
+Overview::
+
 This project aims to automatically generate concise and informative discharge summaries from longer medical reports. It utilizes advanced natural language processing techniques to extract relevant information and generate summaries that capture the key details of a patient's hospital stay.
 
-Features
+Features::
+
 Automatic extraction of relevant medical information from lengthy reports.
 Generation of concise and coherent discharge summaries.
 Integration of state-of-the-art language models for accurate summarization.
