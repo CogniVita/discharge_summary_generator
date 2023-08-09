@@ -6,11 +6,15 @@ Features:
 
 Automatic extraction of relevant medical information from multiple documents.
 
+
 Generation of concise and coherent discharge summaries.
+
 
 Integration of state-of-the-art language models for accurate summarization.
 
+
 Easy-to-use command-line interface for summarization tasks.
+
 
 MIMIC-III is a collection of comma separated value (CSV) files which contains detailed information regarding the clinical care of nearly 40,000 patients.
 
